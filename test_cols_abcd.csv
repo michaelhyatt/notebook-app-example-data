@@ -1,0 +1,2 @@
+rule_name,level,ProcessGuid,ProcessId,Computer
+hit1,high,PLWINDC010-0000-0000-0000-000000004512,4512,WIN-DC01

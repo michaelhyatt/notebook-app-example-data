@@ -1,2 +1,0 @@
-rule_name,level,ProcessGuid,ProcessId,Computer,UtcTime,Image,CommandLine
-hit1,high,PLWINDC010-0000-0000-0000-000000004512,4512,WIN-DC01,2026-06-30T08:14:59Z,"C:\Windows\System32\cmd.exe",powershell.exe -nop

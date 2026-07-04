@@ -1,2 +1,0 @@
-rule_name,CommandLine
-hit1,powershell.exe -enc abc
